@@ -39,13 +39,13 @@ GET: http://localhost:8080/healthz
 ![image](https://user-images.githubusercontent.com/91218162/153302872-76c4b408-bbf7-40de-b33b-d3c51ea3540b.png)
 
 POST: http://localhost:8080/v1/user
-![image](https://user-images.githubusercontent.com/91218162/154212683-50e71a93-0e63-40f0-9e16-f3b42719e438.png)
+
 
 GET: http://localhost:8080/v1/user/self
 ![image](https://user-images.githubusercontent.com/91218162/154212893-589ba1be-7fe5-4dc1-9e40-92c954d7eed5.png)
 
 PUT: http://localhost:8080/v1/user/self
 ![image](https://user-images.githubusercontent.com/91218162/154213163-465076ad-72a1-4811-98eb-19ef625fc541.png)
-![image](https://user-images.githubusercontent.com/91218162/154214901-5fc51f15-ce81-4753-b7c3-08fb252be51d.png)
+
 
 
